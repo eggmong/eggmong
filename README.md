@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Unity-black?logo=unity"> <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp">  
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus"> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white">  
-<img src="https://img.shields.io/badge/-Shader-gray"> <img src="https://img.shields.io/badge/-DirectX-gray">  
+<img src="https://img.shields.io/badge/-Shader-gray">  
 
 
 

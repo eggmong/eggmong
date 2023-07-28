@@ -15,8 +15,8 @@
 ### ✨Featured link✨
 
 #### 🎈 [https://eggmong.github.io/](https://eggmong.github.io/) 
-공부한 것(Unity, C#, C++, Shader 등), 이슈 해결 및
-풀어본 프로그래머스 코딩 테스트를 정리한 블로그 입니다. 🤓
+공부한 것과 이슈 해결 및
+풀어본 코딩 테스트를 정리한 블로그 입니다. 🤓
 
 #### 🎈 [https://github.com/eggmong/hamsterisfree](https://github.com/eggmong/hamsterisfree)
 1인 개발한 게임 `<Hamster is Free>` 의 Git Repository 입니다.

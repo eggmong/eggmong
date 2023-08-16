@@ -8,8 +8,6 @@
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus"> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white">  
 <img src="https://img.shields.io/badge/-Shader-gray">  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/eggmong?theme=wtf&font=Noto%20Sans%20Tirhuta)  
-
 <br>
 
 ### ✨Featured link✨

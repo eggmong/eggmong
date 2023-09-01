@@ -10,7 +10,7 @@
 
 #### ✨Featured link✨
 
-:video_game: [https://github.com/eggmong/hamsterisfree](https://github.com/eggmong/hamsterisfree)  
+:video_game: [https://github.com/SukereamTeam/hamsterisfree](https://github.com/SukereamTeam/hamsterisfree)  
 1인 개발 게임 `<Hamster is Free>` 의 Git Repository 입니다. :hamster:
 
 

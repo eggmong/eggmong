@@ -2,8 +2,8 @@
 
 #### 💻 I've Used
 
-<img src="https://img.shields.io/badge/Unity-black?logo=unity"> <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp">  
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus">
+<img src="https://img.shields.io/badge/Unity-gray?logo=unity"> <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp">  
+<img src="https://img.shields.io/badge/Unreal-0E1128?logo=UnrealEngine"> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus">
 
 <br>
 
@@ -24,3 +24,7 @@ LeetCode 문제풀이 저장소 입니다.
 
 
 </div>
+
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/eggmong/eggmong&count_bg=%2379C83D&title_bg=%235C5C5C&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                                       
+</p>

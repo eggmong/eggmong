@@ -9,16 +9,16 @@
 
 #### ✨Featured link✨
 
-:video_game: [https://github.com/SukereamTeam/hamsterisfree](https://github.com/SukereamTeam/hamsterisfree)  
+[https://github.com/SukereamTeam/hamsterisfree](https://github.com/SukereamTeam/hamsterisfree)  
 1인 개발 게임 `<Hamster is Free>` 의 Git Repository 입니다. :hamster:
 
 
-:file_folder: [https://eggmong.github.io/](https://eggmong.github.io/)  
+[https://eggmong.github.io/](https://eggmong.github.io/)  
 공부한 것과 이슈 해결 및  
 풀어본 코딩 테스트를 정리한 블로그 입니다.
 
 
-:computer: [https://github.com/eggmong/LeetCode](https://github.com/eggmong/LeetCode)  
+[https://github.com/eggmong/LeetCode](https://github.com/eggmong/LeetCode)  
 LeetCode 문제풀이 저장소 입니다.
 
 
